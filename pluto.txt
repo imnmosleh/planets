@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 pluto
+=======
+Pluto2
+>>>>>>> 54b95ce0a1c97f76d2c720a77f88b8e1946d851c
+Pluto 3
